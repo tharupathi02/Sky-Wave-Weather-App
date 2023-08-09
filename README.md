@@ -1,4 +1,4 @@
-# sky_wave
+# Sky Wave
 
 SkyWave Weather App
 
